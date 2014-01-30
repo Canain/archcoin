@@ -2,7 +2,9 @@ Archcoin integration/staging tree
 ================================
 
 Copyright (c) 2009-2013 Bitcoin Developers
+
 Copyright (c) 2011-2013 Litecoin Developers
+
 Copyright (c) 2014 Archcoin Developers
 
 What is Archcoin?
